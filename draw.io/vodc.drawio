@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2023-08-26T16:54:15.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="5wOvKG3f8SiooXlNTNZg" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="nWpFOXe1GciOcbWxha03">
+    <mxGraphModel dx="1340" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6TABZqf9CkA-rL1Vylf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="184" y="110" width="426" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6TABZqf9CkA-rL1Vylf-2" target="2xZqmNbgIAjXu2lXidsa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6TABZqf9CkA-rL1Vylf-2" value="Celery+Rabbitmq" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K9GjTDRQIItK9dSHXCb-1" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="354" y="360" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_K9GjTDRQIItK9dSHXCb-2" target="_K9GjTDRQIItK9dSHXCb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-6" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2xZqmNbgIAjXu2lXidsa-4">
+          <mxGeometry x="-0.2105" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_K9GjTDRQIItK9dSHXCb-2" value="SpringBoot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2xZqmNbgIAjXu2lXidsa-1" target="_K9GjTDRQIItK9dSHXCb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-5" value="写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2xZqmNbgIAjXu2lXidsa-3">
+          <mxGeometry x="-0.396" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-1" value="python&lt;br&gt;lxml 、xpath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2xZqmNbgIAjXu2lXidsa-7" target="_K9GjTDRQIItK9dSHXCb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-10" value="List" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2xZqmNbgIAjXu2lXidsa-9">
+          <mxGeometry x="-0.197" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xZqmNbgIAjXu2lXidsa-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

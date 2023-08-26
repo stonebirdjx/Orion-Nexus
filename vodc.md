@@ -6,3 +6,13 @@
 
 # 架构图
 
+![](./images/vodc.png)
+
+- *Celery* 定时将软件信息写入*RabbitMQ*
+- *Python*服务获取到信息，定期去官网、*github*、*pip*源上判断软件是否有更新
+- 将软件信息写入数据库
+- *SpringBoot*提供*http*服务
+
+
+
+> 部署费劲、容器大法好。
