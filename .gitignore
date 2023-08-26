@@ -1,2 +1,4 @@
 *.bkp
-/draw.io/.$*
+*.btmp
+.$*
+./draw.io/.$*
