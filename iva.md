@@ -34,7 +34,11 @@
 
 # 私有化架构
 
-  ## veStack架构
+![](./images/iva_privatization.png)
 
 
+
+**[混合云*veStack*](https://www.volcengine.com/product/veStack)架构**
+
+![](./images/vestack.png)
 

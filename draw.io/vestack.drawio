@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2023-08-27T04:32:05.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="1u-rSTsxa1X0D_nRfdga" version="21.6.8" type="device">
+  <diagram name="第 1 页" id="grMc5QFQ2SiL4o0wyHI3">
+    <mxGraphModel dx="606" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-1" value="离线源&lt;br&gt;Offline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="530" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-4" value="统一用户管理&lt;br&gt;&amp;amp;&lt;br&gt;运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="110" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-5" value="设备资源池" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-6" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="543" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-7" value="虚拟机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="543" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-8" value="其他集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="543" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IjUQz6_5LP3lu7apcBIo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="500" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
